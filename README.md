@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mohitchauhan4069
+- 👋 Hi, I’m Mohit Chauhan
 - 👀 I’m interested in web developement
-- 🌱 I’m currently working with MERN Stack.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on MERN technology
+- 💞️ I’m looking best oppurtunity to working
 - 📫 contact-email : mohit@assertit.io
 
 <!---
